@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "type": "meson",
+      "mode": "build",
+      "problemMatcher": [
+        "$meson-gcc"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "label": "build"
+    }
+  ]
+}

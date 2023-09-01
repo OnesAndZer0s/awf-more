@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "/home/tayler/Programming/awf-extra/build",
+    "command": "ccache cc -Iawf.p -I. -I.. -I/usr/include/gtk-3.0/unix-print -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gio-unix-2.0 -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/fribidi -I/usr/include/atk-1.0 -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libpng16 -I/usr/include/x86_64-linux-gnu -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g '-DVERSION=\"2.7.0\"' -pthread -MD -MQ awf.p/meson-generated_.._awf_resources.c.o -MF awf.p/meson-generated_.._awf_resources.c.o.d -o awf.p/meson-generated_.._awf_resources.c.o -c awf_resources.c",
+    "file": "awf_resources.c"
+  },
+  {
+    "directory": "/home/tayler/Programming/awf-extra/build",
+    "command": "ccache cc -Iawf.p -I. -I.. -I/usr/include/gtk-3.0/unix-print -I/usr/include/gtk-3.0 -I/usr/include/at-spi2-atk/2.0 -I/usr/include/at-spi-2.0 -I/usr/include/dbus-1.0 -I/usr/lib/x86_64-linux-gnu/dbus-1.0/include -I/usr/include/gio-unix-2.0 -I/usr/include/cairo -I/usr/include/pango-1.0 -I/usr/include/harfbuzz -I/usr/include/fribidi -I/usr/include/atk-1.0 -I/usr/include/pixman-1 -I/usr/include/uuid -I/usr/include/freetype2 -I/usr/include/gdk-pixbuf-2.0 -I/usr/include/libpng16 -I/usr/include/x86_64-linux-gnu -I/usr/include/libmount -I/usr/include/blkid -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -fdiagnostics-color=always -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wextra -Wpedantic -O0 -g '-DVERSION=\"2.7.0\"' -pthread -MD -MQ awf.p/src_awf.c.o -MF awf.p/src_awf.c.o.d -o awf.p/src_awf.c.o -c ../src/awf.c",
+    "file": "../src/awf.c"
+  }
+]

@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-04 12:20+0200\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gtk-awf/src/awf.c:307 gtk-awf/src/awf.c:2764
+#, c-format
+msgid " started with gtk %d.%d.%d and glib %d.%d.%d and pango %s"
+msgstr " démarré avec gtk %d.%d.%d et glib %d.%d.%d et pango %s"
+
+#: gtk-awf/src/awf.c:2206 gtk-awf/src/awf.c:2220 gtk-awf/src/awf.c:2232
+#: gtk-awf/src/awf.c:2241 gtk-awf/src/awf.c:2368 gtk-awf/src/awf.c:2372
+#: gtk-awf/src/awf.c:2380 gtk-awf/src/awf.c:2385
+msgid "(checked)"
+msgstr "(coché)"
+
+#: gtk-awf/src/awf.c:2369 gtk-awf/src/awf.c:2373 gtk-awf/src/awf.c:2381
+#: gtk-awf/src/awf.c:2386
+msgid "(inconsistent)"
+msgstr "(inconsistant)"
+
+#: gtk-awf/src/awf.c:2201 gtk-awf/src/awf.c:2214 gtk-awf/src/awf.c:2231
+#: gtk-awf/src/awf.c:2240 gtk-awf/src/awf.c:2367 gtk-awf/src/awf.c:2371
+#: gtk-awf/src/awf.c:2378 gtk-awf/src/awf.c:2383
+msgid "(unchecked)"
+msgstr "(décoché)"
+
+#: gtk-awf/src/awf.c:295 gtk-awf/src/awf.c:672
+#, c-format
+msgid "A widget factory %s - GTK %d.%d"
+msgstr "La fabrique à widgets %s - GTK %d.%d"
+
+#: gtk-awf/src/awf.c:1589 gtk-awf/src/awf.c:2708 gtk-awf/src/awf.c:2757
+msgid ""
+"A widget factory is a theme preview application for GTK. It displays the "
+"various widget types provided by GTK in a single window allowing to see the "
+"visual effect of the applied theme."
+msgstr ""
+"La fabrique à widgets est une application d'aperçu de thème pour GTK. Elle "
+"affiche les différents types de widgets fournis par GTK dans une seule "
+"fenêtre permettant de voir l'effet visuel du thème appliqué."
+
+#: gtk-awf/src/awf.c:2176 gtk-awf/src/awf.c:2345
+msgid "Calendar"
+msgstr "Calendrier"
+
+#: gtk-awf/src/awf.c:298
+msgid "Don't start spinners."
+msgstr "Ne démarre pas les spinners."
+
+#: gtk-awf/src/awf.c:2178 gtk-awf/src/awf.c:2347
+msgid "GtkScales bottom"
+msgstr "GtkScales bottom"
+
+#: gtk-awf/src/awf.c:2180 gtk-awf/src/awf.c:2349
+msgid "GtkScales left"
+msgstr "GtkScales left"
+
+#: gtk-awf/src/awf.c:2179 gtk-awf/src/awf.c:2348
+msgid "GtkScales right"
+msgstr "GtkScales right"
+
+#: gtk-awf/src/awf.c:2177 gtk-awf/src/awf.c:2346
+msgid "GtkScales top"
+msgstr "GtkScales top"
+
+#: gtk-awf/src/awf.c:2287 gtk-awf/src/awf.c:2434
+msgid "Left to Right (LTR)"
+msgstr "Gauche à droite (LTR)"
+
+#: gtk-awf/src/awf.c:297
+msgid "List available themes."
+msgstr "Liste les thèmes disponibles."
+
+#: gtk-awf/src/awf.c:1567 gtk-awf/src/awf.c:2189 gtk-awf/src/awf.c:2357
+msgid "More..."
+msgstr "Plus..."
+
+#: gtk-awf/src/awf.c:2266 gtk-awf/src/awf.c:2275 gtk-awf/src/awf.c:2415
+#: gtk-awf/src/awf.c:2428
+msgid "No themes found"
+msgstr "Aucun thème trouvé"
+
+#: gtk-awf/src/awf.c:2807 gtk-awf/src/awf.c:2838
+msgid "Ok"
+msgstr "Ok"
+
+#: gtk-awf/src/awf.c:2175 gtk-awf/src/awf.c:2344
+msgid "Open recent file"
+msgstr "Ouvrir un fichier récent"
+
+#: gtk-awf/src/awf.c:2758
+#, c-format
+msgid "Remove %s file"
+msgstr "Supprimer le fichier %s"
+
+#: gtk-awf/src/awf.c:2288 gtk-awf/src/awf.c:2440
+msgid "Right to Left (RTL)"
+msgstr "Droite à gauche (RTL)"
+
+#: gtk-awf/src/awf.c:300
+#, c-format
+msgid "Run and save a png screenshot on %s."
+msgstr "Démarre et enregistre une capture d'écran png lors du %s."
+
+#: gtk-awf/src/awf.c:299
+msgid "Run with the specified theme."
+msgstr "Démarre avec le thème spécifié."
+
+#: gtk-awf/src/awf.c:296
+msgid "Show version number."
+msgstr "Affiche le numéro de version."
+
+#: gtk-awf/src/awf.c:301
+msgid "Start with text from left to right (Left-To-Right)."
+msgstr "Démarre avec le texte de gauche à droite (Left-To-Right)."
+
+#: gtk-awf/src/awf.c:302
+msgid "Start with text from right to left (Right-To-Left)."
+msgstr "Démarre avec le texte de droite à gauche (Right-To-Left)."
+
+#: gtk-awf/src/awf.c:481 gtk-awf/src/awf.c:717
+#, c-format
+msgid "Theme %s loaded."
+msgstr "Thème %s chargé."
+
+#: gtk-awf/src/awf.c:458
+#, c-format
+msgid "Theme %s reloaded."
+msgstr "Thème %s rechargé."
+
+#: gtk-awf/src/awf.c:648
+#, c-format
+msgid "Theme reloaded, then screenshot saved (%s)."
+msgstr "Thème rechargé, puis capture d'écran enregistrée (%s)."
+
+#: gtk-awf/src/awf.c:2809 gtk-awf/src/awf.c:2840
+msgid "This is a question bar."
+msgstr "Ceci est une barre de question."
+
+#: gtk-awf/src/awf.c:2815 gtk-awf/src/awf.c:2846
+msgid "This is a warning bar."
+msgstr "Ceci est une barre d'avertissement."
+
+#: gtk-awf/src/awf.c:2821 gtk-awf/src/awf.c:2852
+msgid "This is an error bar."
+msgstr "Ceci est une barre d'erreur."
+
+#: gtk-awf/src/awf.c:2803 gtk-awf/src/awf.c:2834
+msgid "This is an info bar."
+msgstr "Ceci est une barre d'information."
+
+#: gtk-awf/src/awf.c:2172 gtk-awf/src/awf.c:2338
+msgid "_Options"
+msgstr "_Options"
+
+#: gtk-awf/src/awf.c:2257 gtk-awf/src/awf.c:2396
+msgid "_System themes"
+msgstr "Thèmes _système"
+
+#: gtk-awf/src/awf.c:2286 gtk-awf/src/awf.c:2432
+msgid "_Text direction"
+msgstr "Direction du _texte"
+
+#: gtk-awf/src/awf.c:2270 gtk-awf/src/awf.c:2418
+msgid "_User themes"
+msgstr "Thèmes _utilisateur"
+
+#: gtk-awf/src/awf.c:303 gtk-awf/src/awf.c:2760
+#, c-format
+msgid "compiled with gtk %d.%d.%d and glib %d.%d.%d and pango %s"
+msgstr " compilé avec gtk %d.%d.%d et glib %d.%d.%d et pango %s"
+
+#: gtk-awf/src/awf.c:2759
+msgid "to reset keyboard shortcuts."
+msgstr "pour réinitialiser les raccourcis clavier."
